@@ -1,2 +1,3 @@
 # pico-gateway
-Information related to Canique Pico Gateway
+
+![Canique Pico Gateway](https://www.canique.com/img/1080px/pico-gateway-top.jpg)
