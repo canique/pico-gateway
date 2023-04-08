@@ -24,7 +24,7 @@ You can change the threshold in the "Radio Settings" tab to -105 dBm e.g. - you 
 A yellow RX LED inside the Pico Gateway will show how much noise is being received. The LED shines through the case. The goal is to keep the LED off as much as possible. If it is blinking frequently or seems to be on all the time, you will suffer from message loss.   
 
 The reasons for a frequently blinking LED can be:   
-- bad power supply (with high ripple voltage)
+- bad quality power supply (with high ripple voltage)
 - a device within a radius of approximately 2 meters that is emitting electromagnetic interference (TV, loudspeakers, PC, etc...)
 - an antenna that is inadequate (please use the supplied one)
 
